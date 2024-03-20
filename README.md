@@ -1,5 +1,7 @@
 ## Hello ✨
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariavick&layout=compact&langs_count=7&theme=tokyonight)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjU1a2RwbHl1dTJiejAzdnkwaXdodjZjamc4dnU5eWVpOGkza2MycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7xInAMMXb2EDMSBSTX/giphy.gif" width="250"> 
 
 ## 🌱 Atualmente estou aprendendo...
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
